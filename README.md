@@ -1,6 +1,6 @@
 # RAG Chat Assistant
 
-A simple RAG (Retrieval-Augmented Generation) chatbot for educational demonstrations.
+A simple RAG (Retrieval-Augmented Generation) chatbot.
 
 ## Features
 - Chat interface for asking questions about course content
@@ -77,14 +77,3 @@ GROQ_API_KEY=your_api_key_here
 ├── splitter.py        # Text splitter
 └── requirements.txt   # Dependencies
 ```
-
-## For Students
-
-This is a minimal RAG implementation showing:
-1. Document loading from web
-2. Text splitting into chunks
-3. Creating embeddings and vector store
-4. Building a retrieval chain
-5. Chat interface for Q&A
-
-Perfect for learning the basics of RAG systems!
