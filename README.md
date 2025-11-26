@@ -54,6 +54,9 @@ The app uses the following environment variables (see `.env.example`):
 5. Select your repository and branch
 6. Set main file: `streamlit_app.py`
 7. Add your secrets in Advanced settings > Secrets:
+```
+GROQ_API_KEY=your_groq_api_key_here
+```
 8. Click "Deploy"
 
 ### Deploy to Other Platforms
