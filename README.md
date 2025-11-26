@@ -77,5 +77,3 @@ GROQ_API_KEY=your_api_key_here
 ├── splitter.py        # Text splitter
 └── requirements.txt   # Dependencies
 ```
-
-Perfect for learning the basics of RAG systems!
